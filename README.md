@@ -59,10 +59,12 @@ Me desenvolver como desenvolvedora Front-End, criando experiências digitais que
 ## 📫 Contato
 
 <div align="left">
-  <a href="www.linkedin.com/in/franciny-segala-839421191="_blank">
+  <a href="https://www.linkedin.com/in/franciny-segala-839421191" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
     width="52" height="40" alt="linkedin logo" />
   </a>
+</div>
+
 
   <a href="mailto:francinysegala@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
@@ -71,13 +73,7 @@ Me desenvolver como desenvolvedora Front-End, criando experiências digitais que
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fransgl/fransgl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fransgl/fransgl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fransgl/fransgl/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 
 
